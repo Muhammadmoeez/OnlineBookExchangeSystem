@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "662142338113",
+    "project_id": "online-book-exchange-system",
+    "storage_bucket": "online-book-exchange-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662142338113:android:c98ca9b9ddbac15982f2c0",
+        "android_client_info": {
+          "package_name": "com.example.onlinebookexchangesystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662142338113-hcgdd033b0tl92mi2p7n7lal1nmfhggq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgwopb-T64d2OVkTwAoOTHgTUhaR6vyi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662142338113-hcgdd033b0tl92mi2p7n7lal1nmfhggq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

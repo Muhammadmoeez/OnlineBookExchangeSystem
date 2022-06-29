@@ -1,0 +1,2 @@
+rootProject.name = "Online Book Exchange System"
+include ':app'

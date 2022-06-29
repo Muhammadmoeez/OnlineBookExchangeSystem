@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Online Book Exchange System</string>
+
+
+    <string name="map">AIzaSyB-isI0LKhoYj8APsfcsDvi2xsXlxLoRQk</string>
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">LogIn</string>
+
+
+    <string name="userName">User Name</string>
+    <string name="userEmail">User Email</string>
+    <string name="userPassword">User Password</string>
+    <string name="userConfirmPassword">Confirm Password</string>
+    <string name="userPhone">Phone</string>
+    <string name="userMale">Male</string>
+    <string name="userFeMale">FeMale</string>
+    <string name="signUp">SignUp</string>
+
+
+    <string name="bookName">Book Name</string>
+    <string name="bookWriter">Writer/Author</string>
+    <string name="addBook">Add Book</string>
+
+    <string name="publicDashboard">Public Dashboard</string>
+    <string name="requiredBook">Required Book</string>
+    <string name="allBook"></string>
+    <string name="registration">Registration</string>
+    <string name="myBooks">My Books</string>
+    <string name="sendRequest">Request</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+</resources>
